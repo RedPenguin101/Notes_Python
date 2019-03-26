@@ -5,6 +5,7 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 ## Tutorials
 1. Transforming Code into Beautiful, Idiomatic Python: [https://www.youtube.com/watch?v=OSGv2VnC0go]
 2. Python Metaclasses [https://realpython.com/python-metaclasses/]
+3. Decorators [https://realpython.com/primer-on-python-decorators/]
 
 ## Things to potentially look at
 ### realpython.com
