@@ -28,16 +28,18 @@ Note: a lot of these can be combined into a single 'patterns' tutorial
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Messenger.html Messenger or Data Transfer Object is a way to pass a clump of information around
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PatternConcept.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Decorator.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Iterators.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Factory.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/ChangeInterface.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Observer.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/MultipleDispatching.html
-https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Visitor.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Singleton.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/StateMachine.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Decorator.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Iterators.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Factory.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/ChangeInterface.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Observer.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/MultipleDispatching.html
+* https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Visitor.html
 
+### Youtube
+* https://www.youtube.com/watch?v=2xWhaALHTvU
 
 ### Concepts to write about here
 * Threading
