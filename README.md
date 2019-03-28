@@ -6,18 +6,18 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 1. Transforming Code into Beautiful, Idiomatic Python: [https://www.youtube.com/watch?v=OSGv2VnC0go]
 2. Python Metaclasses [https://realpython.com/python-metaclasses/]
 3. Decorators [https://realpython.com/primer-on-python-decorators/]
+4. Python's Instance, Class, and Static Methods Demystified [https://realpython.com/instance-class-and-static-methods-demystified/]
+5. Factory Method [https://realpython.com/factory-method-python/]
 
 ## Things to potentially look at
 ### realpython.com
 * https://realpython.com/intro-to-python-threading/
 * https://realpython.com/python-super/
-* https://realpython.com/factory-method-python/
 * https://realpython.com/python-type-checking/
 * https://realpython.com/pypi-publish-python-package/
 * https://realpython.com/python-logging/
 * https://realpython.com/primer-on-python-decorators/
 * https://realpython.com/documenting-python-code/
-* https://realpython.com/instance-class-and-static-methods-demystified/
 * https://realpython.com/python3-object-oriented-programming/
 * https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/
 * https://realpython.com/inner-functions-what-are-they-good-for/
@@ -40,6 +40,9 @@ Note: a lot of these can be combined into a single 'patterns' tutorial
 
 ### Youtube
 * https://www.youtube.com/watch?v=2xWhaALHTvU
+
+### Other
+* https://code.tutsplus.com/tutorials/what-are-python-namespaces-and-why-are-they-needed--cms-28598
 
 ### Concepts to write about here
 * Threading
