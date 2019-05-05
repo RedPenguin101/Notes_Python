@@ -26,7 +26,7 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 * https://realpython.com/python-refactoring/
 * https://realpython.com/python-testing/
 
-### Python 3 Patterns, receipies and Idioms book
+### Python 3 Patterns, recipies and Idioms book
 Note: a lot of these can be combined into a single 'patterns' tutorial
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/GeneratorsIterators.html
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
@@ -41,9 +41,12 @@ Note: a lot of these can be combined into a single 'patterns' tutorial
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Observer.html
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/MultipleDispatching.html
 * https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Visitor.html
+* eventsourcing https://io.made.com/eventsourcing-101/
+* clean architectures: http://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/
 
 ### Youtube
-* https://www.youtube.com/watch?v=2xWhaALHTvU
+* Type checking with MyPy https://www.youtube.com/watch?v=2xWhaALHTvU
+* stop writing classes https://www.youtube.com/watch?v=o9pEzgHorH0
 
 ### Other
 * https://code.tutsplus.com/tutorials/what-are-python-namespaces-and-why-are-they-needed--cms-28598
@@ -65,3 +68,4 @@ Note: a lot of these can be combined into a single 'patterns' tutorial
 * args and kwargs
 * MVP patterns
 * Comprehensions
+* Singleton pattern
