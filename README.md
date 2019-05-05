@@ -8,6 +8,7 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 3. Decorators [https://realpython.com/primer-on-python-decorators/]
 4. Python's Instance, Class, and Static Methods Demystified [https://realpython.com/instance-class-and-static-methods-demystified/]
 5. Factory Method [https://realpython.com/factory-method-python/]
+6. Ports and adapters with command handler patterns [https://io.made.com/introducing-command-handler/]
 
 ## Things to potentially look at
 ### realpython.com
@@ -21,6 +22,9 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 * https://realpython.com/python3-object-oriented-programming/
 * https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/
 * https://realpython.com/inner-functions-what-are-they-good-for/
+* https://realpython.com/courses/working-json-data-python/
+* https://realpython.com/python-refactoring/
+* https://realpython.com/python-testing/
 
 ### Python 3 Patterns, receipies and Idioms book
 Note: a lot of these can be combined into a single 'patterns' tutorial
