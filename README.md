@@ -9,6 +9,7 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 4. Python's Instance, Class, and Static Methods Demystified [https://realpython.com/instance-class-and-static-methods-demystified/]
 5. Factory Method [https://realpython.com/factory-method-python/]
 6. Ports and adapters with command handler patterns [https://io.made.com/introducing-command-handler/]
+7. Exceptions from official docs
 
 ## Things to potentially look at
 ### realpython.com
