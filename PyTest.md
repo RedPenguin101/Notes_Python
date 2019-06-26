@@ -57,4 +57,18 @@ def test_add(num1, num2, num3):
 ```
 
 ## fixtures
-* 
+* when you want to create/instatiate objects/data resources which will get used throughout your test suite 
+* you can use it to replace 'setup' and 'teardown' methods in standard library.
+
+```python
+@pytest.fixture(scope='module')
+def db():
+  db = StudentDB()
+  db.connect('data.json')
+  yield db
+  db.close()
+  
+def test_scott_data(db):
+  scott_data = db.get_data('Scott')
+  assert scott_data['id'] == 1
+```
