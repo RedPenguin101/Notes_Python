@@ -10,6 +10,8 @@ This is a collection of notebooks with random miscellaneous tutorials that I've 
 5. Factory Method [https://realpython.com/factory-method-python/]
 6. Ports and adapters with command handler patterns [https://io.made.com/introducing-command-handler/]
 7. Exceptions from official docs
+8. JSON
+9. Dataclasses
 
 ## Things to potentially look at
 ### realpython.com
